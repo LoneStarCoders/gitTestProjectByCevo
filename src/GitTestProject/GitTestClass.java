@@ -21,5 +21,9 @@ public class GitTestClass
         //  push your already created repository to github with these commands
         //  git remote add origin https://github.com/LoneStarCoders/YourProjectName.git
         //  git push -u origin master
+
+        //  it is now on the github if you refresh the page you will see your repo on the github
+
+        //  if you want to add new codes and push it again you need to
     }
 }
