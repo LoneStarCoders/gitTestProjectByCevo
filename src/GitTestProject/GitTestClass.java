@@ -29,5 +29,11 @@ public class GitTestClass
         //  git commit -m "anohternameofyourcoomit"
         //  then push it again with
         //  git push -u origin master
+
+        //  if you want to pull or get the updates on the project in github you simply typr
+        //  git pull to the command line thats it. to try this
+        //  you can create a file in your github repo by clicking create new file in your project then give it a name
+        //  then you can pull it from the command line with git pull
+        //  when you click somewhere in the intellij you will see the update
     }
 }
