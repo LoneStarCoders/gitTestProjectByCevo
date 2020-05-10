@@ -1,5 +1,8 @@
 # gitTestProjectByCevo
-//  first download git then
+        
+        
+        
+        //  first download git then
         //  introduce yourself to git with
         //  git config --global user.name "........."
         //  git config --global user.email "....."
