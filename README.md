@@ -3,7 +3,7 @@
         
         
         //  first download git then
-        //  introduce yourself to git with
+        //  introduce yourself to git with these commands in terminal
         //  git config --global user.name "........."
         //  git config --global user.email "....."
         //  git config --global user.password "....."
