@@ -25,5 +25,9 @@ public class GitTestClass
         //  it is now on the github if you refresh the page you will see your repo on the github
 
         //  if you want to add new codes and push it again you need to
+        //  git add . // again then
+        //  git commit -m "anohternameofyourcoomit"
+        //  then push it again with
+        //  git push -u origin master
     }
 }
