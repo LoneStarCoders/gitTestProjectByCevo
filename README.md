@@ -35,3 +35,12 @@
         //  when you click somewhere in the intellij you will see the update
         
         //. git fetch let you see the changes without saving into your local repository
+        //. in order to pull afer you fech you type git merge command
+        
+        //  if you get an error when you try to push a repo you just pull and push again
+        
+        //. CLONING A PROJECT
+        //  find the link of project then
+        //. on intellij go to file new and project from version control 
+        //. 
+        //  
