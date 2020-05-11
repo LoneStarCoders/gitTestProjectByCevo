@@ -33,3 +33,5 @@
         //  you can create a file in your github repo by clicking create new file in your project then give it a name
         //  then you can pull it from the command line with git pull
         //  when you click somewhere in the intellij you will see the update
+        
+        //. git fetch let you see the changes without saving into your local repository
